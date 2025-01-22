@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9f7e7dfc193be230097c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "light-chat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "light-chat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-light-chat-Debug-82fed163654d915ad69f.json",
+					"name" : "light-chat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "light-chat_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-light-chat_autogen-Debug-3412e65a2d5631cd65ef.json",
+					"name" : "light-chat_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "light-chat_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-light-chat_autogen_timestamp_deps-Debug-c5af01a745e4fff480c1.json",
+					"name" : "light-chat_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "D:/ComputerScience/Practice/C++/light-chat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

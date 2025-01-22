@@ -1,0 +1,3 @@
+QDialog#LoginDialog, QDialog#RegisterDialog {
+    background-color: rgb(220, 220, 220);
+}
