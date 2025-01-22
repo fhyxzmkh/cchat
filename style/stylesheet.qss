@@ -1,3 +1,11 @@
 QDialog#LoginDialog, QDialog#RegisterDialog {
     background-color: rgb(220, 220, 220);
 }
+
+#err_tip[state='normal'] {
+    color: green;
+}
+
+#err_tip[state='err'] {
+    color: red;
+}

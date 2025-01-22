@@ -89,6 +89,14 @@ build CMakeFiles/light-chat.dir/registerdialog.cpp.obj: CXX_COMPILER__light-chat
   OBJECT_DIR = CMakeFiles\light-chat.dir
   OBJECT_FILE_DIR = CMakeFiles\light-chat.dir
 
+build CMakeFiles/light-chat.dir/global.cpp.obj: CXX_COMPILER__light-chat_unscanned_Debug D$:/ComputerScience/Practice/C++/light-chat/global.cpp || cmake_object_order_depends_target_light-chat
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\light-chat.dir\global.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -ID:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/light-chat_autogen/include -isystem D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore -isystem D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include -isystem D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets -isystem D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\light-chat.dir
+  OBJECT_FILE_DIR = CMakeFiles\light-chat.dir
+
 build CMakeFiles/light-chat.dir/light-chat_autogen/EWIEGA46WW/qrc_resources.cpp.obj: CXX_COMPILER__light-chat_unscanned_Debug D$:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/light-chat_autogen/EWIEGA46WW/qrc_resources.cpp || cmake_object_order_depends_target_light-chat
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\light-chat.dir\light-chat_autogen\EWIEGA46WW\qrc_resources.cpp.obj.d
@@ -105,7 +113,7 @@ build CMakeFiles/light-chat.dir/light-chat_autogen/EWIEGA46WW/qrc_resources.cpp.
 #############################################
 # Link the executable light-chat.exe
 
-build light-chat.exe: CXX_EXECUTABLE_LINKER__light-chat_Debug CMakeFiles/light-chat.dir/light-chat_autogen/mocs_compilation.cpp.obj CMakeFiles/light-chat.dir/main.cpp.obj CMakeFiles/light-chat.dir/mainwindow.cpp.obj CMakeFiles/light-chat.dir/logindialog.cpp.obj CMakeFiles/light-chat.dir/registerdialog.cpp.obj CMakeFiles/light-chat.dir/light-chat_autogen/EWIEGA46WW/qrc_resources.cpp.obj | D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Widgets.a D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Gui.a D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Core.a D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6EntryPoint.a || light-chat_autogen light-chat_autogen_timestamp_deps
+build light-chat.exe: CXX_EXECUTABLE_LINKER__light-chat_Debug CMakeFiles/light-chat.dir/light-chat_autogen/mocs_compilation.cpp.obj CMakeFiles/light-chat.dir/main.cpp.obj CMakeFiles/light-chat.dir/mainwindow.cpp.obj CMakeFiles/light-chat.dir/logindialog.cpp.obj CMakeFiles/light-chat.dir/registerdialog.cpp.obj CMakeFiles/light-chat.dir/global.cpp.obj CMakeFiles/light-chat.dir/light-chat_autogen/EWIEGA46WW/qrc_resources.cpp.obj | D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Widgets.a D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Gui.a D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Core.a D$:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6EntryPoint.a || light-chat_autogen light-chat_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Widgets.a  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Gui.a  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

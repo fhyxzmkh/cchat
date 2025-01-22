@@ -16,6 +16,7 @@
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSpacerItem>
 #include <QtWidgets/QStackedWidget>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
@@ -30,6 +31,7 @@ public:
     QStackedWidget *stackedWidget;
     QWidget *page;
     QVBoxLayout *verticalLayout_3;
+    QSpacerItem *verticalSpacer;
     QHBoxLayout *horizontalLayout;
     QLabel *user_label;
     QLineEdit *user_edit;
@@ -46,9 +48,15 @@ public:
     QLabel *verify_label;
     QLineEdit *verify_edit;
     QPushButton *get_code_btn;
+    QSpacerItem *verticalSpacer_3;
+    QWidget *widget;
+    QHBoxLayout *horizontalLayout_4;
+    QLabel *err_tip;
+    QSpacerItem *verticalSpacer_4;
     QHBoxLayout *horizontalLayout_8;
     QPushButton *cancel_btn;
     QPushButton *submit_btn;
+    QSpacerItem *verticalSpacer_2;
     QWidget *page_2;
 
     void setupUi(QDialog *RegisterDialog)
@@ -68,6 +76,10 @@ public:
         page->setObjectName("page");
         verticalLayout_3 = new QVBoxLayout(page);
         verticalLayout_3->setObjectName("verticalLayout_3");
+        verticalSpacer = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_3->addItem(verticalSpacer);
+
         horizontalLayout = new QHBoxLayout();
         horizontalLayout->setObjectName("horizontalLayout");
         user_label = new QLabel(page);
@@ -176,6 +188,27 @@ public:
 
         verticalLayout_3->addLayout(horizontalLayout_6);
 
+        verticalSpacer_3 = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_3->addItem(verticalSpacer_3);
+
+        widget = new QWidget(page);
+        widget->setObjectName("widget");
+        horizontalLayout_4 = new QHBoxLayout(widget);
+        horizontalLayout_4->setObjectName("horizontalLayout_4");
+        err_tip = new QLabel(widget);
+        err_tip->setObjectName("err_tip");
+        err_tip->setAlignment(Qt::AlignCenter);
+
+        horizontalLayout_4->addWidget(err_tip);
+
+
+        verticalLayout_3->addWidget(widget);
+
+        verticalSpacer_4 = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_3->addItem(verticalSpacer_4);
+
         horizontalLayout_8 = new QHBoxLayout();
         horizontalLayout_8->setObjectName("horizontalLayout_8");
         cancel_btn = new QPushButton(page);
@@ -194,6 +227,10 @@ public:
 
 
         verticalLayout_3->addLayout(horizontalLayout_8);
+
+        verticalSpacer_2 = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_3->addItem(verticalSpacer_2);
 
         stackedWidget->addWidget(page);
         page_2 = new QWidget();
@@ -220,6 +257,7 @@ public:
         confirm_label->setText(QCoreApplication::translate("RegisterDialog", "\347\241\256\350\256\244\345\257\206\347\240\201", nullptr));
         verify_label->setText(QCoreApplication::translate("RegisterDialog", "\351\252\214\350\257\201\347\240\201", nullptr));
         get_code_btn->setText(QCoreApplication::translate("RegisterDialog", "\350\216\267\345\217\226\351\252\214\350\257\201\347\240\201", nullptr));
+        err_tip->setText(QCoreApplication::translate("RegisterDialog", "Tips\357\274\232\344\270\200\345\210\207\346\255\243\345\270\270\357\274\201", nullptr));
         cancel_btn->setText(QCoreApplication::translate("RegisterDialog", "\345\217\226\346\266\210", nullptr));
         submit_btn->setText(QCoreApplication::translate("RegisterDialog", "\347\241\256\350\256\244", nullptr));
     } // retranslateUi

@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 65,
+				"line" : 66,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 48,
+				"line" : 49,
 				"parent" : 0
 			},
 			{
@@ -367,7 +367,7 @@
 				2,
 				7,
 				10,
-				16
+				17
 			]
 		}
 	],
@@ -493,7 +493,7 @@
 				2,
 				7,
 				10,
-				16
+				17
 			]
 		},
 		{
@@ -505,7 +505,8 @@
 				9,
 				12,
 				13,
-				14
+				14,
+				15
 			]
 		},
 		{
@@ -516,15 +517,15 @@
 				5,
 				8,
 				11,
-				15
+				16
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				17,
-				18
+				18,
+				19
 			]
 		}
 	],
@@ -595,6 +596,11 @@
 			"backtrace" : 4,
 			"path" : "registerdialog.ui",
 			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "global.h",
+			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,

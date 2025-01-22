@@ -1,5 +1,6 @@
 D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/light-chat_autogen/EWIEGA46WW/moc_registerdialog.cpp: D:/ComputerScience/Practice/C++/light-chat/registerdialog.h \
   D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/light-chat_autogen/moc_predefs.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QRegularExpression \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/q20functional.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/q20memory.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/q20type_traits.h \
@@ -68,6 +69,7 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qprocessordetection.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qrect.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qrefcount.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qregularexpression.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qscopedpointer.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qscopeguard.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qset.h \
@@ -139,8 +141,11 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtGui/qwindowdefs.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtGui/qwindowdefs_win.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/QDialog \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/QStyle \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/QWidget \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/qdialog.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/qsizepolicy.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/qstyle.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -368,4 +373,5 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
-  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
+  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
+  D:/ComputerScience/Practice/C++/light-chat/global.h
