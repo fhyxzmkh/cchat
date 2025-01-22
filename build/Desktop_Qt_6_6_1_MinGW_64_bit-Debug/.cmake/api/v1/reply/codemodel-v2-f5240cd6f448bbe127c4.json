@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d5ad5abb80ae2b0f4e67.json",
+					"jsonFile" : "directory-.-Debug-95f4092af26adb945562.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "light-chat::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-light-chat-Debug-42bc56d1f0a3433c4ac7.json",
+					"jsonFile" : "target-light-chat-Debug-938eeaf12470d42ad867.json",
 					"name" : "light-chat",
 					"projectIndex" : 0
 				},

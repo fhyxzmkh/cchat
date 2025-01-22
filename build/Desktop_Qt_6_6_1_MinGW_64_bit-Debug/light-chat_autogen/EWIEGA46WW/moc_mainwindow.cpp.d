@@ -1,6 +1,15 @@
 D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/light-chat_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/ComputerScience/Practice/C++/light-chat/mainwindow.h \
   D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/light-chat_autogen/moc_predefs.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QFlags \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QIODevice \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QList \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QMetaType \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QObject \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QRegularExpression \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QSharedDataPointer \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QString \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QUrl \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/QVariant \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/q20functional.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/q20memory.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/q20type_traits.h \
@@ -19,6 +28,7 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qbytearraylist.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qbytearrayview.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcalendar.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qchar.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcompare.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -29,8 +39,10 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcontainerinfo.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcontainertools_impl.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qcryptographichash.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qdatastream.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qdatetime.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qdebug.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qexceptionhandling.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qflags.h \
@@ -43,12 +55,14 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qglobalstatic.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qhash.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qhashfunctions.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qiodevice.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qiodevicebase.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qiterable.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qiterator.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qlatin1stringview.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qline.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qlist.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qlocale.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qlogging.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qmalloc.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qmap.h \
@@ -110,6 +124,7 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qtversionchecks.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qtypeinfo.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qtypes.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qurl.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qutf8stringview.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qvariant.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtCore/qvarlengtharray.h \
@@ -140,6 +155,26 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtGui/qtransform.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtGui/qwindowdefs.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/QNetworkAccessManager \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/QNetworkReply \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/QNetworkRequest \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/QSslConfiguration \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qabstractsocket.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qhostaddress.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qnetworkaccessmanager.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qnetworkreply.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qssl.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qsslcertificate.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qsslerror.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qsslsocket.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qtcpsocket.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
+  D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/QDialog \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/QMainWindow \
   D:/ComputerScience/Compilers/Qt/6.6.1/mingw_64/include/QtWidgets/QStyle \
@@ -191,6 +226,7 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hashtable_policy.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/invoke.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ios_base.h \
+  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/iterator_concepts.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_classes.h \
@@ -250,6 +286,7 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/string_view.tcc \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stringfwd.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uniform_int_dist.h \
+  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unique_lock.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unique_ptr.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unordered_map.h \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h \
@@ -286,11 +323,14 @@ D:/ComputerScience/Practice/C++/light-chat/build/Desktop_Qt_6_6_1_MinGW_64_bit-D
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/initializer_list \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iosfwd \
+  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
+  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iterator \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/map \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/memory \
+  D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/mutex \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/new \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/numbers \
   D:/ComputerScience/Compilers/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/numeric \

@@ -1,0 +1,5 @@
+2
+0
+{"Hash":"","Name":"","Path":"D:\\ComputerScience\\Practice\\C++\\light-chat\\global.cpp"}
+{"Hash":"","Name":"","Path":"D:\\ComputerScience\\Practice\\C++\\light-chat\\logindialog.cpp"}
+0
